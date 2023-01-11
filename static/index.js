@@ -51,21 +51,20 @@ const ART = [
 ]
 
 const SEARCHES = [
-  'where should i bury the body',
-  'why does my eye twitch',
-  'why is my poop green',
-  'why do i feel so empty',
-  'why do i always feel hungry',
-  'why do i always have diarrhea',
+  'twerking lessons',
+  'gay rough anal',
+  'pornhub',
+  'sorry bucko',
+  'why is my anus always red',
+  'how to twerk better',
   'why does my anus itch',
-  'why does my belly button smell',
-  'why does my cat attack me',
-  'why does my dog eat poop',
-  'why does my fart smell so bad',
-  'why does my mom hate me',
-  'why does my pee smell bad',
-  'why does my poop float',
-  'proof that the earth is flat'
+  'how to tell if your gay',
+  'gay test',
+  'gay porn',
+  'how to suck pp',
+  'how to not be gay',
+  'how to act straight',
+  'is 2 inches average'
 ]
 
 const VIDEOS = [
